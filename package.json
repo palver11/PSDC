@@ -1,0 +1,29 @@
+{
+  "name": "psdc",
+  "version": "0.0.1",
+  "description": "A program for the game Pandora Saga, which shows the character's statistics based on information collected from the chat log files.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palver11/PSDC.git"
+  },
+  "keywords": [
+    "pandora",
+    "saga",
+    "data",
+    "collector"
+  ],
+  "author": "Palver",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/palver11/PSDC/issues"
+  },
+  "homepage": "https://github.com/palver11/PSDC#readme",
+  "devDependencies": {
+    "electron": "^34.0.0"
+  }
+}
